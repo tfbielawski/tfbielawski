@@ -3,7 +3,8 @@
 - AS in computer science
 - Lambda School Coding Bootcamp
 - Sci-fi and fantasy author and nerd
-- CF dad <a href="https://cff.org/m">Visit the Cystic Fibrosis Foundation to learn more</a>
+- CF dad 
+- <a href="https://cff.org/m">Visit the Cystic Fibrosis Foundation to learn more about cystic fibrosis</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
