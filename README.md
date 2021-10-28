@@ -2,6 +2,7 @@
 - Veteran US Marine and former special agent turned software engineer
 - AS in computer science
 - Lambda School Coding Bootcamp
+- Sci-fi and fantasy author and nerd
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
