@@ -4,7 +4,7 @@
 - Lambda School Coding Bootcamp
 - Sci-fi and fantasy author and nerd
 - CF dad 
-- <a href="https://cff.org/m">Visit the Cystic Fibrosis Foundation to learn more about cystic fibrosis</a>
+- <a href="https://cff.org/m">To learn more about CF, visit the Cystic Fibrosis Foundation</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
