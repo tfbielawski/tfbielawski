@@ -3,6 +3,7 @@
 - AS in computer science
 - Lambda School Coding Bootcamp
 - Sci-fi and fantasy author and nerd
+- CF dad <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
