@@ -3,6 +3,7 @@
 - AS in computer science
 - Lambda School Coding Bootcamp
 - Sci-fi and fantasy author and nerd
+- Avid angler
 - CF dad 
 - <a href="https://cff.org/m">To learn more about CF, visit the Cystic Fibrosis Foundation</a>
 
