@@ -5,7 +5,7 @@
 - Sci-fi and fantasy author and nerd
 - Avid angler
 - CF dad 
-- <a href="https://cff.org/m">To learn more about CF, visit the Cystic Fibrosis Foundation</a>
+- <a href="https://cff.org/">To learn more about CF, visit the Cystic Fibrosis Foundation</a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
