@@ -1,7 +1,7 @@
 # Tom Bielawski
 - Veteran US Marine and former special agent turned software engineer
 - AS in computer science
-- Lambda School Coding Bootcamp
+- Lambda School Coding Bootcamp (Graduate)
 - Sci-fi and fantasy author and nerd
 - Avid angler
 - CF dad 
