@@ -57,12 +57,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/jetbrains.svg">
       </td>
       <td width="25%" align="center">
-        <span>Heroku </span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/heroku.svg">
+        <span>Vercel </span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
       </td>
       <td width="25%" align="center">
-        <span>Vercel</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
+        <span>React Native</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
       </td>
     </tr>
     <tr>
@@ -83,12 +83,23 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
       </td>
     </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span>iOS</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/apple-app-store.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>NodeJS</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-vertical.svg">
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tfbielawski.tfbielawski)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=tfbielawski.tfbielawski)
 
 ---
 <!--
