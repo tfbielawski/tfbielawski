@@ -31,8 +31,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Python</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>React Native</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
       </td>
       <td width="25%" align="center">
         <span>C++</span><br><br>
@@ -60,15 +60,15 @@
         <span>Vercel </span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
       </td>
-      <td width="25%" align="center">
-        <span>React Native</span><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+      <td width="50%" height="50%" align="center">
+        <span>Android</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-3.svg">
       </td>
     </tr>
     <tr>
       <td width="25%" align="center">
-        <span>Git</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+        <span>Android Studio</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217">
       </td>
       <td width="25%" align="center">
         <span>Redux</span><br><br>
@@ -89,8 +89,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/apple-app-store.svg">
       </td>
       <td width="25%" align="center">
-        <span>NodeJS</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-vertical.svg">
+        <span>xCode</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/xcode.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>Git</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
       </td>
     </tr>
 
